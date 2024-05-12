@@ -1,4 +1,4 @@
-# file picker adicionar arquivos
+
 # importando o flat
 import flet as ft
 
