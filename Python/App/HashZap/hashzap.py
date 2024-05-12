@@ -1,4 +1,3 @@
-
 # importando o flat
 import flet as ft
 
