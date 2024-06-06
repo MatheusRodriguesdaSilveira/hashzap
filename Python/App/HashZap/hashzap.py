@@ -1,4 +1,4 @@
-# importando o flat
+# importando o flet
 import flet as ft
 
 # criando a tela principal
